@@ -1,0 +1,73 @@
+
+<HTML>
+<HEAD>
+<meta http-equiv="Content-Type" content="form/html"; charset="utf-8">
+<META Name="author" СоП;еП="Ишмухаметова Язгуль, kkedrovic1@gmail.com"> 
+<META Name="copyright" СоП;еП="Банк, предоставляющий кредиты">
+<META Name="keywords" СоП;еП="Кредит, банк, автокредит, лизинг, ипотека">
+<META Name="description" Content="Предоставление кредита">
+<META HTTP-EQUIV="Expires" Content="Mon, 11 Jun 2023 00:00:01 GMT">
+<META Name="Publisher-URL" СоП;еП="http://www.form/">
+<META HTTP-EQUIV="Refresh" Content="5">
+<META HTTP-EQUIV="pragma" Content="no-cache">
+<META Name="Generator" Content="Microsoft Notepad">
+<META Name="bank" Content="index, nofollow">
+<TITLE> ANKETA </TITLE>
+<script language="javascript">
+function buttonColor() {
+	document.getElementById("but").style.backgroundColor= "8aa7cf";
+}
+function butColor() {
+	document.getElementById("but").style.backgroundColor= "white";
+}
+</script>
+ </HEAD>
+<!- Тело HTML-документа ->
+<BODY BGCOLOR="#d3deed">
+<P ALIGN=LEFT>
+<form NAME='TALK' ACTION="mailto:kkedrovic1@gmail.com" METHOD="POST">
+<HR>
+<H2><Font color="black"><CENTER> Пожалуйста, заполните форму: </font></CENTER></H2>
+<HR>
+<IMG SRC="C:\Users\123\OneDrive\Документы\HTML\bank.jpg" HEIGHT="550px" Width="400px" align="right">
+Ваше имя:
+<INPUT TYPE='TEXT' NAME='NAME' SIZE='40'>
+<BR><BR>
+Ваша фамилия:
+<INPUT TYPE='TEXT' NAME='NAME' SIZE='40'>
+<BR><BR>
+Ваше отчество:
+<INPUT TYPE='TEXT' NAME='NAME' SIZE='40'>
+<BR><BR>
+Номер паспорта:
+<INPUT TYPE='TEXT' NAME='NAME' SIZE='40'>
+<BR><BR>
+Адрес постоянного проживания:
+<INPUT TYPE='TEXT' NAME='NAME' SIZE='40'>
+<BR><BR>
+Фамилия сотрудника:
+<INPUT TYPE='TEXT' NAME='NAME' SIZE='40'>
+<BR><BR>
+Дата рождения:
+<INPUT TYPE='TEXT' NAME='E-MAIL' SIZE='35'><BR><BR>
+Вид кредита:
+<INPUT TYPE='RADIO' NAME='YEARS' VALUE='O-LE15' > Потребительский кредит
+<INPUT TYPE='RADIO' NAME='YEARS' VALUE='O-15-25' CHECKED> Автокредиты
+<INPUT TYPE='RADIO' NAME='YEARS' VALUE='O-26-35' > Ипотечные кредиты
+<INPUT TYPE='RADIO' NAME='YEARS' VALUE='O-36-60' > Лизинг
+<BR><BR>
+Филиал банка:
+<INPUT TYPE='TEXT' NAME='NAME' SIZE='40'>
+<BR><BR>
+Сумма кредита:
+<INPUT TYPE='TEXT' NAME='NAME' SIZE='40'>
+<BR><BR>
+Примечания:<BR>
+<TEXTAREA NAME='COMMENT' ROWS=3 COLS=50>
+Одобрите, пж
+</TEXTAREA><BR>
+<BR><INPUT TYPE="RESET" NAME='reset_button'VALUE='Очистить форму'>
+<BR><BR>Введите ваш пароль:
+<BR><INPUT TYPE="PASSWORD" NAME="password_button"><BR>
+<BR><INPUT TYPE="SUBMIT" NAME='OK_BUTTON' VALUE='Послать запрос'>
+<P><a href='db.html'> Подробнее об услугах </a></P>
